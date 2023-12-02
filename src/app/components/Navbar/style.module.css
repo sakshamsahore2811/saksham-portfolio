@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
+    background-color: black;
+    object-fit: content;
+    background-repeat: no-repeat;
+
+}
+
+.listitem{
+    color: aqua;
+}
